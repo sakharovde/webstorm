@@ -2,6 +2,8 @@
   <component name="MaterialThemeConfig">
     <option name="highlightColor" value="14bccb" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="isBoldTabs" value="true" />
+    <option name="accentColor" value="80cbc4" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="35" />
     <option name="isCompactStatusBar" value="true" />
