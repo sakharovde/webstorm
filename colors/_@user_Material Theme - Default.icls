@@ -4,7 +4,7 @@
     <property name="created">2017-09-01T18:59:21</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2017-09-21T18:26:01</property>
+    <property name="modified">2017-09-21T18:51:37</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -57,6 +57,7 @@
     <option name="SELECTED_INDENT_GUIDE" value="80cbc4" />
     <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
     <option name="SELECTION_BACKGROUND" value="314549" />
+    <option name="SELECTION_FOREGROUND" value="fbfffb" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="3b4950" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="546e7a" />
