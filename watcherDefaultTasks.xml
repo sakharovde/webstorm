@@ -20,7 +20,7 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--single-quote --write $FilePath$" />
+      <option name="arguments" value="--single-quote --print-width 120 --write $FilePath$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="NEVER" />
