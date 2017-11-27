@@ -4,6 +4,7 @@
     <option name="selectedTheme" value="LIGHTER" />
     <option name="highlightColor" value="14bccb" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="isBoldTabs" value="true" />
     <option name="accentColor" value="80cbc4" />
     <option name="compactSidebar" value="true" />
