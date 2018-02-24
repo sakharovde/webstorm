@@ -4,10 +4,10 @@
     <property name="created">2017-12-03T14:27:33</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2018-02-24T17:00:53</property>
+    <property name="modified">2018-02-24T17:09:14</property>
     <property name="originalScheme">google-code</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="11" />
