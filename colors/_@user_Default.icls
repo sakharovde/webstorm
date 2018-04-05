@@ -3,7 +3,7 @@
     <property name="created">2018-02-24T14:57:15</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-03-30T11:55:09</property>
+    <property name="modified">2018-04-05T13:42:53</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <attributes>
@@ -38,11 +38,18 @@
         <option name="FOREGROUND" value="8000" />
       </value>
     </option>
+    <option name="HTML_TAG">
+      <value />
+    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="0" />
         <option name="BACKGROUND" value="ffffff" />
       </value>
+    </option>
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_TAG">
+      <value />
     </option>
   </attributes>
 </scheme>
