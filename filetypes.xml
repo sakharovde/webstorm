@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="fetchReduxActions" type="JavaScript" />
       <mapping ext="m-3iw8k8if8h3ly" type="Native" />
+      <mapping pattern="EmbeddedHome.js" type="PLAIN_TEXT" />
       <mapping ext="webarchive" type="XHTML" />
     </extensionMap>
   </component>
