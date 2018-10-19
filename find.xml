@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../config/swagger/swagger.json [widgets]'" />
+    <option name="defaultScopeName" value="File '.../config/swagger/swagger.json [widgets]'" />
+    <option name="SEARCH_SCOPE" value="File '.../config/swagger/swagger.json [widgets]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
