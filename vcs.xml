@@ -31,6 +31,6 @@
     <option name="cloneParentDir" value="$USER_HOME$/code" />
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="SHOW_DIFF_PREVIEW" value="true" />
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
   </component>
 </application>
