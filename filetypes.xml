@@ -6,7 +6,6 @@
       <mapping ext="m-3iw8k8if8h3ly" type="Native" />
       <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
       <mapping pattern="EmbeddedHome.js" type="PLAIN_TEXT" />
-      <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping ext="webarchive" type="XHTML" />
     </extensionMap>
   </component>
