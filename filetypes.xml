@@ -1,13 +1,24 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="additional_types" type="GraphQL" />
-      <mapping pattern="ClickableComponent.js" type="JavaScript" />
       <mapping pattern="fetchReduxActions" type="JavaScript" />
+      <mapping pattern="ClickableComponent.js" type="JavaScript" />
       <mapping ext="m-3iw8k8if8h3ly" type="Native" />
       <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
       <mapping pattern="EmbeddedHome.js" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping ext="webarchive" type="XHTML" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
     </extensionMap>
   </component>
 </application>
