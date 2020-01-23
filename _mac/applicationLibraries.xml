@@ -6,27 +6,5 @@
         <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="cast_sender" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__www.gstatic.com_cv_js_sender_v1_cast_sender.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__www.gstatic.com_cv_js_sender_v1_cast_sender.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="ima3" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__imasdk.googleapis.com_js_sdkloader_ima3.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__imasdk.googleapis.com_js_sdkloader_ima3.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
   </component>
 </application>
