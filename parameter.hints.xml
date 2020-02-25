@@ -1,7 +1,9 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="TypeScript" />
+      <blacklist language="TypeScript">
+        <added pattern="createHttpLink(linkOptions)" />
+      </blacklist>
     </blacklists>
   </component>
 </application>
