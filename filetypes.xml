@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="additional_types" type="GraphQL" />
+      <mapping ext="gql" type="GraphQL" />
       <mapping pattern="ClickableComponent.js" type="JavaScript" />
       <mapping pattern="fetchReduxActions" type="JavaScript" />
       <mapping ext="m-3iw8k8if8h3ly" type="Native" />
@@ -20,7 +22,6 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <mapping pattern="additional_types" type="GraphQL" />
     </extensionMap>
   </component>
 </application>
