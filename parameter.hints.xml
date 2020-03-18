@@ -3,6 +3,7 @@
     <blacklists>
       <blacklist language="TypeScript">
         <added pattern="createHttpLink(linkOptions)" />
+        <added pattern="Date(value)" />
       </blacklist>
     </blacklists>
   </component>
