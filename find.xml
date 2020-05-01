@@ -14,5 +14,6 @@
     <mask>*.json</mask>
     <mask>*.js</mask>
     <mask>*.tsx</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
