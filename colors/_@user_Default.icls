@@ -3,7 +3,7 @@
     <property name="created">2018-05-17T11:01:35</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.1.3.0.0</property>
-    <property name="modified">2018-10-10T20:27:51</property>
+    <property name="modified">2020-05-06T21:35:34</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <attributes>
@@ -13,6 +13,9 @@
         <option name="FOREGROUND" value="660e7a" />
         <option name="FONT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="DEFAULT_DOC_MARKUP">
+      <value />
     </option>
     <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -38,6 +41,9 @@
         <option name="FOREGROUND" value="80" />
       </value>
     </option>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value />
+    </option>
     <option name="JS.CLASS">
       <value>
         <option name="FOREGROUND" value="0" />
@@ -58,6 +64,9 @@
         <option name="FOREGROUND" value="7f0000" />
         <option name="FONT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="TS.TYPE_GUARD">
+      <value />
     </option>
     <option name="XML_TAG">
       <value>
