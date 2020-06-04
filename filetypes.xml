@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="DockerfileDev" type="Dockerfile" />
       <mapping pattern="additional_types" type="GraphQL" />
       <mapping ext="gql" type="GraphQL" />
       <mapping pattern=".graphqlconfig-with-content" type="JSON" />
