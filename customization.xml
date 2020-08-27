@@ -1,0 +1,13 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="Git.Fetch" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Optional Actions" />
+      <path value="VcsTouchBarGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="Git.Fetch" icon="$USER_HOME$/Downloads/Unknown" />
+  </component>
+</application>
