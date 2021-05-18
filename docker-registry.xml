@@ -1,9 +1,0 @@
-<application>
-  <component name="DockerRegistry">
-    <DockerRegistry email="denis.sakahrov@motorsport.com">
-      <option name="address" value="gitlab.ms4.work:5005" />
-      <option name="name" value="MS GitLab" />
-      <option name="username" value="dsakharov" />
-    </DockerRegistry>
-  </component>
-</application>
