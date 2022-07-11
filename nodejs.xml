@@ -1,0 +1,25 @@
+<application>
+  <component name="NodeJsLocalInterpreterManager">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v16.14.2/bin/node">
+      <version-cache version="16.14.2" last-modified="1647554886000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.19.1/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+  </component>
+  <component name="NodeJsRemoteInterpreters">
+    <interpreter node-remote-interpreter="docker://node:16/node" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VERSION="" OUTDATED_ID="" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="node:16" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
+    <interpreter node-remote-interpreter="docker-compose://[/Users/denissakharov/code/tv/web-services/kickstart/docker-compose-frontend.yml]:entry-testing/node" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VERSION="" OUTDATED_ID="" DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="entry-testing" DOCKER_REMOTE_PROJECT_PATH="/opt/project">
+      <dockerComposeConfigurationPaths>
+        <item value="$USER_HOME$/code/tv/web-services/kickstart/docker-compose-frontend.yml" />
+      </dockerComposeConfigurationPaths>
+      <envs />
+    </interpreter>
+    <interpreter node-remote-interpreter="docker-compose://[/Users/denissakharov/code/tv/web-services/kickstart/docker-compose-frontend.yml]:entry-production/node" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VERSION="" OUTDATED_ID="" DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="entry-production" DOCKER_REMOTE_PROJECT_PATH="/opt/project">
+      <dockerComposeConfigurationPaths>
+        <item value="$USER_HOME$/code/tv/web-services/kickstart/docker-compose-frontend.yml" />
+      </dockerComposeConfigurationPaths>
+      <envs />
+    </interpreter>
+  </component>
+</application>

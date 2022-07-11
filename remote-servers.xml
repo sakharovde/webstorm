@@ -1,0 +1,23 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Docker" type="docker">
+      <configuration>
+        <option name="certificatesPath" />
+        <entry contributedKey="DockerSshConnectionConfigurator.SshConfigId" value="5d289ec3-9ebd-4883-986d-e551cf7d92f9" />
+        <option name="customConfiguratorId" value="DockerSshConnectionConfigurator" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="/Users" />
+              <option name="virtualMachinePath" value="/Users" />
+            </DockerPathMappingImpl>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="$USER_HOME$" />
+              <option name="virtualMachinePath" value="$USER_HOME$" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
+      </configuration>
+    </remote-server>
+  </component>
+</application>
