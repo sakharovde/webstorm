@@ -1,7 +1,8 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="Docker" type="docker">
+    <remote-server name="Docker SSH" type="docker">
       <configuration>
+        <option name="apiUrl" value="http://127.0.0.1" />
         <option name="certificatesPath" />
         <entry contributedKey="DockerSshConnectionConfigurator.SshConfigId" value="5d289ec3-9ebd-4883-986d-e551cf7d92f9" />
         <option name="customConfiguratorId" value="DockerSshConnectionConfigurator" />
@@ -9,14 +10,16 @@
           <list>
             <DockerPathMappingImpl>
               <option name="localPath" value="/Users" />
-              <option name="virtualMachinePath" value="/Users" />
-            </DockerPathMappingImpl>
-            <DockerPathMappingImpl>
-              <option name="localPath" value="$USER_HOME$" />
-              <option name="virtualMachinePath" value="$USER_HOME$" />
+              <option name="virtualMachinePath" value="/home" />
             </DockerPathMappingImpl>
           </list>
         </option>
+      </configuration>
+    </remote-server>
+    <remote-server name="Docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+        <option name="certificatesPath" />
       </configuration>
     </remote-server>
   </component>
