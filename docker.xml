@@ -1,4 +1,7 @@
 <application>
+  <component name="ComposeFilesSynchronizedWithServiceView">
+    <option value="file://$USER_HOME$/code/tv/web-services/kickstart/docker-compose-frontend.yml" />
+  </component>
   <component name="DockerSettings">
     <option name="dockerComposePath" value="/usr/local/bin/docker-compose" />
     <option name="dockerMachinePath" value="" />

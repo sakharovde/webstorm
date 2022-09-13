@@ -20,7 +20,6 @@
       <configuration>
         <option name="apiUrl" value="unix:///var/run/docker.sock" />
         <option name="certificatesPath" />
-        <option name="connected" value="true" />
       </configuration>
     </remote-server>
   </component>
